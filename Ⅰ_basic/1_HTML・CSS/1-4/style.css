@@ -17,7 +17,7 @@
 }
 
 .main {
-  width: 100%; /* px表記にする */
+  width: 100%; /* px表記にする */ /*まだ％のまま・・？*/
   /* height: 1400px; */
   /* background-color: green; */
   display: flex;
